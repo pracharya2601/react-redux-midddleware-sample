@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<h2>Overview</h2>
+
+<p>
+ Simple react app that get data from jsonPlaceholder api. Use of Redux-chunk middleware, dashload npm to memoize the function.
+</p>
+
+
+
+
+
+
 
 ## Available Scripts
 
